@@ -1,0 +1,48 @@
+Semana 1-2: Introducción Básica
+Día 1: Configuración del Entorno
+
+Instala Python en tu sistema.
+Aprende a usar el intérprete de Python en la línea de comandos.
+Día 2-3: Hola Mundo y Operaciones Básicas
+
+Escribe un programa que imprima "Hola Mundo".
+Realiza operaciones básicas como suma, resta, multiplicación y división.
+Día 4-5: Variables y Tipos de Datos
+
+Crea variables para almacenar diferentes tipos de datos (enteros, flotantes, cadenas).
+Experimenta con la conversión de tipos de datos.
+Día 6-7: Condicionales y Control de Flujo
+
+Introduce instrucciones if para tomar decisiones en tus programas.
+Crea programas simples con bucles for y while.
+Semana 3-4: Estructuras de Datos Básicas
+Día 8-10: Listas y Bucles
+
+Aprende a trabajar con listas y realiza bucles para procesar sus elementos.
+Día 11-12: Diccionarios
+
+Familiarízate con los diccionarios y cómo acceder a sus valores.
+Semana 5-6: Funciones y Modularidad
+Día 13-14: Funciones Básicas
+
+Crea funciones simples con parámetros y valores de retorno.
+Día 15-16: Módulos y Paquetes
+
+Organiza tu código en módulos y aprende a usar paquetes.
+Semana 7-8: Proyectos Prácticos
+Día 17-20: Pequeño Proyecto - Calculadora Simple
+
+Combina lo aprendido para crear una calculadora simple que realice operaciones básicas.
+Día 21-22: Juego de Adivinanza
+
+Desarrolla un juego simple donde el programa elige un número aleatorio y el usuario tiene que adivinarlo.
+Día 23-24: Manejo de Datos - Registro de Notas
+
+Crea un programa que gestione un registro de notas utilizando listas y diccionarios.
+Extras (Si tienes tiempo):
+Día 25-28: Reto - Automatización de Tareas
+
+Investiga sobre módulos como os y shutil para automatizar tareas simples en tu sistema.
+Día 29-30: Proyecto - Lista de Tareas
+
+Desarrolla una aplicación de consola para gestionar una lista de tareas pendientes.

@@ -1,0 +1,28 @@
+
+Semana 21-22: Proyectos Prácticos
+Día 69-72: Proyecto - Gestor de Tareas con Recordatorios
+
+Expande tu aplicación de lista de tareas para incluir recordatorios y fechas de vencimiento.
+Día 73-74: Juego de Preguntas y Respuestas
+
+Desarrolla un juego de preguntas y respuestas con múltiples niveles y categorías.
+Semana 23-24: Conexión con Bases de Datos
+Día 75-76: Introducción a SQLite
+
+Aprende a conectarte a una base de datos SQLite y realizar operaciones CRUD básicas.
+Día 77-78: Uso de ORM (Object-Relational Mapping)
+
+Implementa un ORM básico para interactuar con la base de datos de manera más orientada a objetos.
+Extras (Si tienes tiempo):
+Día 79-82: Proyecto - Blog Simple
+
+Desarrolla un blog simple utilizando una base de datos para almacenar publicaciones y comentarios.
+Día 83-86: Trabajo con APIs
+
+Consume una API REST para obtener datos en tiempo real y úsalos en tu aplicación.
+Día 87-90: Introducción a Flask
+
+Aprende los conceptos básicos de Flask y desarrolla una aplicación web simple.
+Día 91-94: Creación de un Panel de Control de Datos
+
+Utiliza Flask y una base de datos para crear un panel de control que permita visualizar y gestionar datos.

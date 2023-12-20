@@ -1,0 +1,41 @@
+Semana 17-18: Funciones y Modularidad Avanzadas
+Día 61-62: Funciones Lambda y Funciones de Orden Superior
+
+Explora funciones lambda y funciones que toman funciones como argumentos.
+Día 63-64: Módulos Avanzados
+
+Trabaja con módulos más complejos y aprende a estructurar proyectos más grandes.
+Semana 19-20: Manipulación Avanzada de Datos
+Día 65-66: Trabajo con Archivos CSV y JSON
+
+Desarrolla un programa que lea y escriba datos en formatos CSV y JSON.
+Día 67-68: Procesamiento de Texto y Expresiones Regulares
+
+Utiliza expresiones regulares para buscar y manipular patrones de texto en un archivo.
+Semana 21-22: Proyectos Prácticos
+Día 69-72: Proyecto - Gestor de Tareas con Recordatorios
+
+Expande tu aplicación de lista de tareas para incluir recordatorios y fechas de vencimiento.
+Día 73-74: Juego de Preguntas y Respuestas
+
+Desarrolla un juego de preguntas y respuestas con múltiples niveles y categorías.
+Semana 23-24: Conexión con Bases de Datos
+Día 75-76: Introducción a SQLite
+
+Aprende a conectarte a una base de datos SQLite y realizar operaciones CRUD básicas.
+Día 77-78: Uso de ORM (Object-Relational Mapping)
+
+Implementa un ORM básico para interactuar con la base de datos de manera más orientada a objetos.
+Extras (Si tienes tiempo):
+Día 79-82: Proyecto - Blog Simple
+
+Desarrolla un blog simple utilizando una base de datos para almacenar publicaciones y comentarios.
+Día 83-86: Trabajo con APIs
+
+Consume una API REST para obtener datos en tiempo real y úsalos en tu aplicación.
+Día 87-90: Introducción a Flask
+
+Aprende los conceptos básicos de Flask y desarrolla una aplicación web simple.
+Día 91-94: Creación de un Panel de Control de Datos
+
+Utiliza Flask y una base de datos para crear un panel de control que permita visualizar y gestionar datos.

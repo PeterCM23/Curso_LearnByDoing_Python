@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ publicacion[1] }}</title>
+</head>
+<body>
+    <h1>{{ publicacion[1] }}</h1>
+    <p>{{ publicacion[2] }}</p>
+    <h2>Comentarios</h2>
+    <ul>
+        {% for comentario in comentarios %}
+            <li>{{ comentario[2] }}</li>
+        {% endfor %}
+    </ul>
+    <form action="{{ url_for('nuevo_comentario', publicacion_id=publicacion[0]) }}" method="post">
+        <label for="contenido">Nuevo Comentario:</label>
+        <textarea name="contenido" required></textarea>
+        <button type="submit">Publicar Comentario</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,28 @@
+
+ Proyectos Prácticos
+Proyecto - Blog Avanzado
+
+Mejora tu blog anterior añadiendo funcionalidades como comentarios, etiquetas y búsqueda.
+ Juego de Preguntas Multijugador (con Flask-SocketIO)
+
+Extiende tu juego de preguntas para permitir partidas multijugador en tiempo real.
+Trabajo con APIs y Despliegue
+ Consumo de una API Externa
+
+Consume una API externa y muestra sus datos en tu aplicación.
+Despliegue en la Nube (por ejemplo, Heroku)
+
+Aprende a desplegar tu aplicación Flask en la nube para que sea accesible desde cualquier lugar.
+
+Día 113-116: Introducción a Django
+
+Explora los fundamentos de Django y desarrolla una aplicación simple.
+Día 117-120: Proyecto - Red Social Básica
+
+Crea una red social básica utilizando Django con funcionalidades como perfiles de usuario y publicaciones.
+Día 121-124: Desarrollo de una API REST con Django REST Framework
+
+Desarrolla una API REST utilizando Django REST Framework y conecta una aplicación frontend a ella.
+Día 125-128: Implementación de Autenticación OAuth
+
+Integra la autenticación OAuth en tu aplicación Flask o Django utilizando servicios como Google o GitHub.

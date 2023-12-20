@@ -1,0 +1,41 @@
+Semana 9-10: Estructuras de Datos Avanzadas
+Día 31-32: Manipulación de Listas
+
+Practica con operaciones avanzadas en listas como slicing, concatenación y comprensiones de listas.
+Día 33-34: Bucles Avanzados
+
+Experimenta con bucles más complejos como bucles for anidados.
+Semana 11-12: Más Funciones y Modularidad
+Día 35-36: Funciones con Múltiples Parámetros
+
+Crea funciones que acepten múltiples parámetros y experimenta con argumentos predeterminados.
+Día 37-38: Funciones Recursivas
+
+Aprende a implementar funciones recursivas para resolver problemas.
+Semana 13-14: Trabajo con Archivos y Excepciones
+Día 39-40: Lectura de Archivos de Texto
+
+Desarrolla un programa que lea un archivo de texto y muestre su contenido en la consola.
+Día 41-42: Escritura en Archivos
+
+Modifica tu programa para que pueda escribir en un archivo de texto.
+Día 43-44: Manejo de Excepciones
+
+Mejora tu programa anterior incorporando manejo de excepciones para gestionar posibles errores.
+Semana 15-16: Proyectos Prácticos
+Día 45-48: Proyecto - Lista de Contactos
+
+Desarrolla una aplicación que gestione una lista de contactos, permitiendo añadir, eliminar y buscar contactos.
+Día 49-50: Juego de Palabras Cruzadas
+
+Crea un juego de palabras cruzadas simple utilizando estructuras de datos como listas y diccionarios.
+Extras (Si tienes tiempo):
+Día 51-54: Web Scraping Básico
+
+Introduce web scraping usando bibliotecas como BeautifulSoup para extraer información de una página web simple.
+Día 55-58: Proyecto - Aplicación de Clima
+
+Consume una API de pronóstico del tiempo y crea una aplicación que muestre la información del clima para una ubicación dada.
+Día 59-60: Introducción a la Programación Orientada a Objetos (OOP)
+
+Familiarízate con los conceptos básicos de la programación orientada a objetos creando clases y objetos simples.

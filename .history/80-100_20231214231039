@@ -1,0 +1,26 @@
+Proyecto - Plataforma de Aprendizaje en Línea
+
+Desarrolla una plataforma básica para la gestión de cursos en línea con perfiles de estudiantes y profesores.
+Desarrollo de API con Django Rest Framework (DRF)
+
+Construye una API REST completa utilizando Django Rest Framework.
+Semana 39-40: Despliegue y Escalabilidad
+Día 143-144: Despliegue en Servidores VPS (DigitalOcean, AWS, etc.)
+
+Aprende a desplegar tu aplicación Django en un servidor virtual privado.
+Día 145-146: Configuración de Servidores Web y Gunicorn
+
+Configura servidores web como Nginx y servidores de aplicaciones como Gunicorn para mejorar el rendimiento.
+Extras (Si tienes tiempo):
+Día 147-150: Docker y Orquestación con Docker Compose
+
+Familiarízate con Docker y utiliza Docker Compose para orquestar tus servicios.
+Día 151-154: Pruebas Unitarias y Pruebas de Integración en Django
+
+Aprende a escribir pruebas unitarias y pruebas de integración para asegurar la calidad de tu código en Django.
+Día 155-158: Desarrollo de Aplicaciones en Tiempo Real con Django Channels
+
+Explora Django Channels para desarrollar aplicaciones en tiempo real, como un chat en tiempo real.
+Día 159-162: Contribuciones a Proyectos de Código Abierto
+
+Contribuye a proyectos de código abierto en el ecosistema de Django y Python.

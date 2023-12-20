@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marvel Character Search</title>
+</head>
+<body>
+    <h1>Marvel Character Search</h1>
+    <form method="post">
+        <label for="character_name">Nombre del personaje:</label>
+        <input type="text" id="character_name" name="character_name" required>
+        <button type="submit">Buscar</button>
+    </form>
+    {% if characters %}
+        <h2>Resultados:</h2>
+        <ul>
+            {% for character in characters %}
+                <li>{{ character['name'] }}</li>
+                <img src="{{ character['path']}}" alt="">
+                <li>{{ character['description'] }}</li>
+                <li>{{ character['comics'] }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>

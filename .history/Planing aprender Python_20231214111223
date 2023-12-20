@@ -1,0 +1,49 @@
+Nivel 0-20%: Introducción Básica
+Hola Mundo en Python:
+Imprime "Hola Mundo" en la consola.
+Operaciones Básicas:
+Realiza operaciones matemáticas simples.
+Variables y Tipos de Datos:
+Practica con variables y tipos de datos (enteros, flotantes, cadenas).
+Condicionales:
+Crea un programa que tome una decisión usando instrucciones if.
+
+Nivel 20-40%: Estructuras de Datos Básicas
+Listas y Bucles:
+Trabaja con listas y realiza bucles (for y while).
+Diccionarios:
+Familiarízate con diccionarios y cómo acceder a sus elementos.
+
+Nivel 40-60%: Funciones y Modularidad
+Funciones:
+Crea funciones simples con parámetros y valores de retorno.
+Módulos y Paquetes:
+Organiza tu código en módulos y utiliza paquetes.
+
+Nivel 60-80%: Manipulación de Archivos y Excepciones
+Lectura y Escritura de Archivos:
+Abre, lee y escribe archivos en Python.
+Manejo de Excepciones:
+Implementa manejo de excepciones para hacer tu código más robusto.
+Nivel 80-100%: Proyectos Avanzados
+Aplicación de Consola:
+Desarrolla una aplicación de consola que realice una tarea específica (puede ser una lista de tareas, gestión de contactos, etc.).
+Interfaz Gráfica de Usuario (GUI):
+Aprende a usar bibliotecas como Tkinter o PyQt para crear interfaces gráficas simples.
+Web Scraping:
+Extrae información de una página web utilizando bibliotecas como BeautifulSoup y requests.
+API REST:
+Consume una API REST para obtener o enviar dato.
+Base de Datos:
+Integra una base de datos (SQLite, MySQL, MongoDB) en tu aplicación.
+Proyecto Final:
+Desarrolla un proyecto más grande que combine varias habilidades aprendidas. Puede ser un juego, una aplicación web simple, o cualquier cosa que te interese.
+Nivel 100%+: Mejora Continua
+Aprendizaje de Frameworks:
+Explora frameworks como Django o Flask para desarrollo web.
+Diseño de Patrones y Arquitecturas:
+Investiga sobre patrones de diseño y arquitecturas de software.
+Despliegue y CI/CD:
+Aprende a desplegar aplicaciones y configurar integración continua/despliegue continuo (CI/CD).
+Contribuciones Open Source:
+Colabora en proyectos de código abierto en GitHub para mejorar tus habilidades y trabajar en un entorno colaborativo.

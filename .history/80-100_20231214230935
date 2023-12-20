@@ -1,0 +1,41 @@
+Desarrollo Avanzado con Django
+Día 129-130: Desarrollo de Vistas Avanzadas
+
+Aprende a trabajar con vistas basadas en clases y funciones en Django.
+Día 131-132: Middleware y Procesadores de Contexto
+
+Explora cómo utilizar middleware y procesadores de contexto para personalizar el comportamiento de tu aplicación Django.
+Semana 35-36: Django y Bases de Datos
+Día 133-134: Modelos Avanzados
+
+Profundiza en el diseño de modelos en Django y utiliza relaciones más complejas.
+Día 135-136: Consultas Avanzadas con ORM de Django
+
+Realiza consultas avanzadas a la base de datos utilizando el ORM de Django.
+Semana 37-38: Proyectos Prácticos
+Día 137-140: Proyecto - Plataforma de Aprendizaje en Línea
+
+Desarrolla una plataforma básica para la gestión de cursos en línea con perfiles de estudiantes y profesores.
+Día 141-142: Desarrollo de API con Django Rest Framework (DRF)
+
+Construye una API REST completa utilizando Django Rest Framework.
+Semana 39-40: Despliegue y Escalabilidad
+Día 143-144: Despliegue en Servidores VPS (DigitalOcean, AWS, etc.)
+
+Aprende a desplegar tu aplicación Django en un servidor virtual privado.
+Día 145-146: Configuración de Servidores Web y Gunicorn
+
+Configura servidores web como Nginx y servidores de aplicaciones como Gunicorn para mejorar el rendimiento.
+Extras (Si tienes tiempo):
+Día 147-150: Docker y Orquestación con Docker Compose
+
+Familiarízate con Docker y utiliza Docker Compose para orquestar tus servicios.
+Día 151-154: Pruebas Unitarias y Pruebas de Integración en Django
+
+Aprende a escribir pruebas unitarias y pruebas de integración para asegurar la calidad de tu código en Django.
+Día 155-158: Desarrollo de Aplicaciones en Tiempo Real con Django Channels
+
+Explora Django Channels para desarrollar aplicaciones en tiempo real, como un chat en tiempo real.
+Día 159-162: Contribuciones a Proyectos de Código Abierto
+
+Contribuye a proyectos de código abierto en el ecosistema de Django y Python.
